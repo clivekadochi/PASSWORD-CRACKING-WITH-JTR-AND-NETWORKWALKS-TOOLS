@@ -128,7 +128,13 @@ Finally, I learned that password cracking must always be performed within an aut
 
 ## 🗃 8. Evidences Collected
  
- 
+<img src="" width="1366" height="768" />
+<img src="" width="1366" height="768" />
+<img src="" width="1366" height="768" />
+<img src="" width="1366" height="768" />
+<img src="" width="1366" height="768" />
+<img src="" height="768" />
+<img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/33ce1f89163e25e3e40fcd809847cfdd83a1e5f8/Topology1.PNG" width="1366" height="768" /> 
  
  
  
