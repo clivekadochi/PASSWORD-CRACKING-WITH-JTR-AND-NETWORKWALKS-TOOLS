@@ -86,7 +86,7 @@ Then Paste the hash value into the Password Cracker and start the attack. The to
 Wait for the tool to finish. The cracked password will be shown on the screen. Note: The time taken depends on how simple or complex the password is. 
 After completing the scan, I opened the locked PDF file and enter the cracked password. Enter password1 (which i have just cracked): 
 My PDF file was opened. 
-.
+
 
  
 ## 🧲 5. Risk Analysis / Impact
@@ -129,12 +129,12 @@ Finally, I learned that password cracking must always be performed within an aut
 ## 🗃 8. Evidences Collected
  
 <img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/331e79976955442b009149558dda8c1beca44efe/Screenshot%202026-09-20%20173830%20Hash%20extractor.png" width="1366" height="768" />
-<img src="" width="1366" height="768" />
-<img src="" width="1366" height="768" />
-<img src="" width="1366" height="768" />
-<img src="" width="1366" height="768" />
-<img src="" height="768" />
-<img src=" height="768" /> 
+<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/6b865035cbf7e87451d952fea2c31ad0f9238629/Screenshot%202026-09-20%20173714%20john%20password.png" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/6b865035cbf7e87451d952fea2c31ad0f9238629/Screenshot%202026-09-20%20150045%20password%20cracked.png" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/6b865035cbf7e87451d952fea2c31ad0f9238629/Screenshot%202026-09-20%20070634%20password%20successful.png" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/6b865035cbf7e87451d952fea2c31ad0f9238629/Screenshot%202026-09-20%20071037%20password%20cracked%20congratulations.png" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/6b865035cbf7e87451d952fea2c31ad0f9238629/Screenshot%202026-09-20%20071453%20congratilations.png" height="768" />
+<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/6b865035cbf7e87451d952fea2c31ad0f9238629/Screenshot%202026-09-20%20175208%20Password%20crack.png" height="768" /> 
  
  
  
