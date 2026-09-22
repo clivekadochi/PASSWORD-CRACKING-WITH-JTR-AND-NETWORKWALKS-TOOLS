@@ -1,10 +1,30 @@
+<div align="center">
 
+# 🔐 PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS
+</div>
 
-## PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ver-KaliLinux%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.1.4-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Zenmap Scanning%2F-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks Intern-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clive%20Kadochi%20IT Tech-C00000?style=flat-square" />
+</p>
 
-PASSWORD CRACKING WITH JTR  &amp; NETWORKWALKS TOOLS
+---
 
-W3-PM-FINAL | CYBERSECURITY |  NETWORKWALKS
+<p align="center"> ## 🔐PENETRATION-TESTING-REPORT-
+  
+
+## W3-PM-FINAL REPORT PASSWORD CRACKING WITH JTR & NETWORKWALKS TOOLS | CYBERSECURITY |  NETWORKWALKS
 
 Pentester Name
 (Cybersecurity Professional)	Clive Kadochi
